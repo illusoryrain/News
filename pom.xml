@@ -45,7 +45,7 @@
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
-      <version>3.5.1</version>
+      <version>3.5.6</version>
     </dependency>
 
     <!-- Map工具类 对标准java Collection的扩展 spring-core.jar需commons-collections.jar -->
